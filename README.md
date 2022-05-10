@@ -26,7 +26,7 @@ PromptView: terminal interface, input/output streams, scanners, etc.
 HTML5 && CSS: Bootstrap, flexbox, etc.
 Thymeleaf: dynamic templating
 
-### ✔️ Design Patterns 🧬
+### ✔️ Design Patterns 
 
 + Factory (used in JavaBank)
 + Strategy (used in JavaBank)
@@ -38,7 +38,7 @@ Thymeleaf: dynamic templating
 
 These are some examples and what context they were mentioned during the bootcamp. Choose a few and familiarize yourselves with the problem they solve and how they do it.
 
-### ✔️ MVC and Service Layer 🔄	
+### ✔️ MVC and Service Layer 
 
 Architectural pattern, separation of responsability, layer pattern.
 
