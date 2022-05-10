@@ -7,13 +7,6 @@
 + Networking Game (7th Week)
 + Hackathon Project (13th Week)
 + Single Page Application (final week JS project)
-+ Whatever personal projects you may have
-
-Basically, anything that is built upon a codebase of <Academia de Código_> cannot be used - such as the Car Crash exercise. Some of the earlier exercises solve problems that might be too small and simple to include in the portfolio, such as the GuessANumber/RockPaperScissors challenges.
-
-Also remember to include in the description of these projects what week of the bootcamp you were in and how many days of x skill you had. For example: SimpleGFX Game project made after 4 weeks of Java or the WebServer was made after 3 days of networking!
-
-Goes without saying (but I must), don't put up any of <A/C_> implementations on your portfolios.
 
 # 🏦 JavaBank RoadMap 🏦
 
