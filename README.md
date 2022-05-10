@@ -15,18 +15,18 @@ Also remember to include in the description of these projects what week of the b
 
 Goes without saying (but I must), don't put up any of <A/C_> implementations on your portfolios.
 
-# JavaBank RoadMap
+# 🏦 JavaBank RoadMap 🏦
 
 An unofficial roadmap of the skills you learned during this major project - I've included some JavaScript skills as well. Use this as a refresher/guide on points to prep before an interview if you like.
 
-### User Interface
+### 👀 User Interface 👀
 
 PromptView: terminal interface, input/output streams, scanners, etc.
 
 HTML5 && CSS: Bootstrap, flexbox, etc.
 Thymeleaf: dynamic templating
 
-### Design Patterns
+### ✔️ Design Patterns 🧬
 
 + Factory (used in JavaBank)
 + Strategy (used in JavaBank)
@@ -38,53 +38,53 @@ Thymeleaf: dynamic templating
 
 These are some examples and what context they were mentioned during the bootcamp. Choose a few and familiarize yourselves with the problem they solve and how they do it.
 
-### MVC and Service Layer
+### ✔️ MVC and Service Layer 🔄	
 
 Architectural pattern, separation of responsability, layer pattern.
 
-### Maven
+### ✔️ Maven
 
 Replaced build.xml + ANT command. Project and dependency manager + build tool.
 
-### Tests
+### ✔️ Tests
 
 TDD, JUnit (unit testing), Mockito.
 
-### Databases
+### ✔️ Databases
 
 MySQL, Relational Databases, ACID, Database Normalization.
 
-### JDBC
+### ✔️ JDBC
 
 Java Database Connector
 
-### JPA
+### ✔️ JPA
 
 ORM, Hibernate, Annotation Mappings, Criteria Queries, JPQL.
 
-### Enterprise Application
+### ✔️ Enterprise Application
 
 JavaEE, Data Access Objects, Transactions, Three Tier Architecture.
 
-### Spring
+### ✔️ Spring
 
 Dependency Injection, XML defined beans, AOP.
 
-### Java Web
+### ✔️ Java Web
 
 JSP, Servlets, Web Container (Tomcat), web descriptor (web.xml)
 
-### SpringMVC
+### ✔️ SpringMVC
 
 Annotation defined beans, Front Controller pattern, thymeleaf view resolver, autowiring.
 
 DTO: Data Transfer Objects - not related to Spring but applied during this phase.
 
-### REST
+### ✔️ REST
 
 Web service, uses HTTP protocol, JSON, postman for testing.
 
-### JS Web Development
+### ✔️ JS Web Development
 
 DOM API, AJAX, JQuery, dev tools for testing.
 
