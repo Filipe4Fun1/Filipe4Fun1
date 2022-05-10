@@ -19,7 +19,7 @@ Goes without saying (but I must), don't put up any of <A/C_> implementations on 
 
 An unofficial roadmap of the skills you learned during this major project - I've included some JavaScript skills as well. Use this as a refresher/guide on points to prep before an interview if you like.
 
-### 👀 User Interface 👀
+### ✔️ User Interface 
 
 PromptView: terminal interface, input/output streams, scanners, etc.
 
