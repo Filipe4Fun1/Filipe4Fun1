@@ -1,4 +1,4 @@
-#:construction: Portfolio Projects :construction:
+###:construction: Portfolio Projects :construction:
 
 + SimpleGFX Game (4th Week)
 + Map Editor (5th Week)
