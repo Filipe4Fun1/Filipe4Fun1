@@ -29,7 +29,7 @@ Thymeleaf: dynamic templating
 + Singleton (used by Spring in bean creation)
 + Decorator (used by BufferedReader())
 
-These are some examples and what context they were mentioned during the bootcamp. Choose a few and familiarize yourselves with the problem they solve and how they do it.
+These are some examples and what context they were mentioned during the bootcamp. 
 
 ### ✔️ MVC and Service Layer 
 
